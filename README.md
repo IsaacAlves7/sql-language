@@ -1,6 +1,6 @@
 # It's a repository of SQL language with the PostgreSQL and MySQL databases. 🎲🏦🎲
 <p>I created this repository for my SQL language learning.</p>
-<blockquote>⚠️ <b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in PHP development, if you want to learn about HTML5, CSS3, JS or PHP Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
+<blockquote>⚠️ <b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in SQL language, if you want to learn about HTML5, CSS3, JS or PHP Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
 <img src="https://www.linkoficial.com.br/wp-content/uploads/2018/09/139988-636613820719522911-16x9.jpg" width="1070"/>
 
