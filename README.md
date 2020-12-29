@@ -44,7 +44,7 @@
 
 [![GitHub](https://img.shields.io/badge/-RelaXCalc-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://dbis-uibk.github.io/relax/landing)
 
-## Main menu - Overview about the PHP language 🐘
+## Main menu - Overview about the SQL language 🐘🎲🏦🎲🐬
 <b>All topics:</b>
 <ol>
   <li><a href="https://github.com/IsaacAlves7/php-programming/blob/master/README.md#-implementa%C3%A7%C3%A3o-com-banco-de-dados-">🎲 Implementação com Banco de dados 🏦</a></li>
