@@ -1,4 +1,4 @@
-# It's a repository of SQL language with the PostgreSQL and MySQL databases. 🎲🏦🎲
+# It's a repository of SQL language with the PostgreSQL and MySQL databases. 🎲🏦🔢
 <p>I created this repository for my SQL language learning.</p>
 <blockquote>⚠️ <b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in SQL language, if you want to learn about HTML5, CSS3, JS or PHP Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
 
@@ -45,7 +45,7 @@
 
 [![GitHub](https://img.shields.io/badge/-RelaXCalc-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://dbis-uibk.github.io/relax/landing)
 
-## 🐬🐘 Main menu - Overview about the SQL language 🎲🏦🎲
+## 🐬🐘 Main menu - Overview about the SQL language 🎲🏦🔢
 <b>All topics:</b>
 <ol>
   <li><a href="https://github.com/IsaacAlves7/php-programming/blob/master/README.md#-implementa%C3%A7%C3%A3o-com-banco-de-dados-">🎲 Implementação com Banco de dados 🏦</a></li>
