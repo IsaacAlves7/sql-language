@@ -1,4 +1,4 @@
-# It's a repository of SQL language with the PostgreSQL and MySQL databases. 🎲🏦🔢
+# It's a repository of SQL language with Relational databases. 🎲🏦🔢
 <p>I created this repository for my SQL language learning.</p>
 
 <img src="https://www.linkoficial.com.br/wp-content/uploads/2018/09/139988-636613820719522911-16x9.jpg" width="1070"/>
