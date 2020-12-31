@@ -1,7 +1,7 @@
 # It's a repository of SQL language with Relational databases. 🎲🏦🔢
 <p>I created this repository for my SQL language learning.</p>
 
-<img src="https://cdn.lynda.com/course/604214/604214-637286219010719938-16x9.jpg" width="1070"/>
+<img src="https://cdn.lynda.com/course/563093/563093-637286208186280625-16x9.jpg" width="1070"/>
 
 ## 🎒 Prerequisites and repositories 📚:
 <blockquote>⚠️ <b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in SQL language, if you want to learn about HTML5, CSS3, JS or PHP Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
