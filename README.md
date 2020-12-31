@@ -1,7 +1,7 @@
 # It's a repository of SQL language with Relational databases. 🎲🏦🔢
 <p>I created this repository for my SQL language learning.</p>
 
-<img src="https://www.linkoficial.com.br/wp-content/uploads/2018/09/139988-636613820719522911-16x9.jpg" width="1070"/>
+<img src="https://github.com/IsaacAlves7/sql-language/blob/main/Exemplo%20de%20SQL.jpg" width="1070"/>
 
 ## 🎒 Prerequisites and repositories 📚:
 <blockquote>⚠️ <b>Obs:</b> It's important to install each one of components shown and to execute the codes on your own machine. Besides that, please note that repository is only focused in SQL language, if you want to learn about HTML5, CSS3, JS or PHP Frameworks i recommend to access another repositories, click on links bellow!</blockquote>
