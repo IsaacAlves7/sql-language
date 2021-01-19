@@ -53,7 +53,6 @@
   <li><a href="https://github.com/IsaacAlves7/sql-language/blob/main/README.md#cap-02--%C3%A1lgebra-relacional-">🔠 Álgebra Relacional 🔣</a></li>
   <li><a href="https://github.com/IsaacAlves7/sql-language/blob/main/README.md#cap-03--linguagem-sql---dml-e-ddl-">🎲 Linguagem SQL - DML e DDL 🔢</a></li>
   <li>💉 SQL Injection 🎲</li>
-  <li>🐘 The History of PHP language 🔢</li>
 </ol>
 <hr>
 
