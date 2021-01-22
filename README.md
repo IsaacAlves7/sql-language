@@ -630,6 +630,7 @@ Ou seja, dar instruções ao meio ambiente do banco de dados e ele te retornará
 <hr>
 
 <h1 align="center">Cap 10: 🎲 No-SQL ❌</h1>
+<div align="center"><img src="https://www.zoomdata.com/sites/default/files/pasted_image_0_4_1.png"></div>
 <p>O <b>No-SQL</b> (NOT ONLY SQL) é uma classe ou paradigma de banco de dados que fornecem um mecanismo para armazenamento e recuperação de dados que são modelados de formas diferentes das relações tabulares usadas nos bancos de dados relacionais.</p>
 <!--https://sitenxt.com/sql/wp-content/uploads/sites/4/2018/12/SQL-512x445.png-->
 <!--
