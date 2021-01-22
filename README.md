@@ -627,6 +627,7 @@ A forma geral da operação Diferença entre duas tabelas A e B é a seguinte:</
 <p>O <b>Structured Query Language (SQL)</b> é uma linguagem padrão de gerenciamento de dados que interage com os principais bancos de dados baseados no modelo relacional, dentre eles: MySQL, PostgreSQL, Oracle, SQL Server, MariaDB e Access.
 
 Ou seja, dar instruções ao meio ambiente do banco de dados e ele te retornará uma <i>Query</i>, ou seja, uma solicitação ou resposta.</p>
+<hr>
 
 <h1 align="center">Cap 10: 🎲 No-SQL ❌</h1>
 <!--https://sitenxt.com/sql/wp-content/uploads/sites/4/2018/12/SQL-512x445.png-->
