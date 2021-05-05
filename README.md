@@ -648,18 +648,17 @@ A forma geral da operação Diferença entre duas tabelas A e B é a seguinte:</
 Ou seja, dar instruções ao meio ambiente do banco de dados e ele te retornará uma <i>Query</i>, ou seja, uma solicitação ou resposta.</p>
 <hr>
 
-<h1 align="center">Cap 10: 🎲 No-SQL ❌</h1>
+<h1 align="center">Cap 10: 🎲 Modelagem de Dados 🛢️</h1>
+
+<div align="center"><img src="https://dv-website.s3.amazonaws.com/uploads/2019/12/mk_datamodelingtrends2020_010720.jpg"></div>
+<hr>
+
+<h1 align="center">Cap 11: 🎲 No-SQL ❌</h1>
 <div align="center"><img src="https://www.zoomdata.com/sites/default/files/pasted_image_0_4_1.png"></div>
 <p>O <b>No-SQL</b> (NOT ONLY SQL) é uma classe ou paradigma de banco de dados que fornecem um mecanismo para armazenamento e recuperação de dados que são modelados de formas diferentes das relações tabulares usadas nos bancos de dados relacionais.</p>
 <div align="center"><img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/10/16191759/NOSQL3.png"></div>
 <p></p>
 <hr>
-
-<h1 align="center">Cap 11: 🎲 Modelagem de Dados 🛢️</h1>
-
-<div align="center"><img src="https://dv-website.s3.amazonaws.com/uploads/2019/12/mk_datamodelingtrends2020_010720.jpg"></div>
-
-
 
 
 
