@@ -657,7 +657,7 @@ Ou seja, dar instruções ao meio ambiente do banco de dados e ele te retornará
 
 <h1 align="center">Cap 11: 🎲 Modelagem de Dados 🛢️</h1>
 
-
+<img src="https://dv-website.s3.amazonaws.com/uploads/2019/12/mk_datamodelingtrends2020_010720.jpg" align="center">
 
 
 
