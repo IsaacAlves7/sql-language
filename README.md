@@ -658,8 +658,10 @@ Ou seja, dar instruções ao meio ambiente do banco de dados e ele te retornará
 <p>O <b>No-SQL</b> (NOT ONLY SQL) é uma classe ou paradigma de banco de dados que fornecem um mecanismo para armazenamento e recuperação de dados que são modelados de formas diferentes das relações tabulares usadas nos bancos de dados relacionais.</p>
 <div align="center"><img src="https://blog-static.infra.grancursosonline.com.br/wp-content/uploads/2020/10/16191759/NOSQL3.png"></div>
 
-## MongoDB
+## 🎲❌ MongoDB 🍃
 
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" height="170">
+  
 ## SQLite
 <hr>
 
